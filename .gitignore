@@ -1,11 +1,63 @@
+HEAD
+*.class
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+# IntelliJ IDEA
+e0dc08cdf2ca4101e48e588f4a50398659dc8ca9
 # Ignorer le dossier Twitter-Sentiment-Analysing
 Twitter-Sentiment-Analysing/
 
 # Fichiers spécifiques à IntelliJ IDEA
+HEAD
+
+#cd1f4cc (Ajout du fichier .gitattributes pour gérer les fins de ligne)
+e0dc08cdf2ca4101e48e588f4a50398659dc8ca9
 .idea/
 *.iml
 out/
 
+HEAD
+
+# Logs
+logs/
+*.log
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# Scala
+*.bloop
+*.metals
+*.history
+*.target/
+
+# Build tools
+/.sbt/
+/.project
+/.classpath
+/.settings/
+/build/
+/dist/
+/target/
+/bin/
+/lib/
+/META-INF/
+
+# Spark temporary files
+spark-warehouse/
+metastore_db/
+derby.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+e0dc08cdf2ca4101e48e588f4a50398659dc8ca9
 # Logs et fichiers temporaires
 *.log
 *.tmp
@@ -16,3 +68,7 @@ target/
 
 # Exclure d'autres fichiers ou dossiers non nécessaires
 .bsp/
+HEAD
+
+#cd1f4cc (Ajout du fichier .gitattributes pour gérer les fins de ligne)
+e0dc08cdf2ca4101e48e588f4a50398659dc8ca9
