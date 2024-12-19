@@ -3,3 +3,45 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Logs
+logs/
+*.log
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# Scala
+*.bloop
+*.metals
+*.history
+*.target/
+
+# Build tools
+/.sbt/
+/.project
+/.classpath
+/.settings/
+/build/
+/dist/
+/target/
+/bin/
+/lib/
+/META-INF/
+
+# Spark temporary files
+spark-warehouse/
+metastore_db/
+derby.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
