@@ -1,10 +1,22 @@
+
 # Ignorer le dossier Twitter-Sentiment-Analysing
 Twitter-Sentiment-Analysing/
 
 # Fichiers spécifiques à IntelliJ IDEA
+
+*.class
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+# IntelliJ IDEA
+#e7b241f346d879230433b321870596c6ec161d0a
 .idea/
 *.iml
 out/
+
 
 # Logs et fichiers temporaires
 *.log
@@ -16,3 +28,40 @@ target/
 
 # Exclure d'autres fichiers ou dossiers non nécessaires
 .bsp/
+=======
+# Logs
+logs/
+*.log
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# Scala
+*.bloop
+*.metals
+*.history
+*.target/
+
+# Build tools
+/.sbt/
+/.project
+/.classpath
+/.settings/
+/build/
+/dist/
+/target/
+/bin/
+/lib/
+/META-INF/
+
+# Spark temporary files
+spark-warehouse/
+metastore_db/
+derby.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+# e7b241f346d879230433b321870596c6ec161d0a
