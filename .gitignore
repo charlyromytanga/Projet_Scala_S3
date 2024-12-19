@@ -6,6 +6,11 @@ hs_err_pid*
 
 
 # IntelliJ IDEA
+# Ignorer le dossier Twitter-Sentiment-Analysing
+Twitter-Sentiment-Analysing/
+
+# Fichiers spécifiques à IntelliJ IDEA
+#cd1f4cc (Ajout du fichier .gitattributes pour gérer les fins de ligne)
 .idea/
 *.iml
 out/
@@ -45,3 +50,14 @@ derby.log
 # OS-specific files
 .DS_Store
 Thumbs.db
+# Logs et fichiers temporaires
+*.log
+*.tmp
+
+# Dossiers de compilation
+target/
+*.class
+
+# Exclure d'autres fichiers ou dossiers non nécessaires
+.bsp/
+#cd1f4cc (Ajout du fichier .gitattributes pour gérer les fins de ligne)
