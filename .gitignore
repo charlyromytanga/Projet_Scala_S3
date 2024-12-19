@@ -1,9 +1,8 @@
-
+HEAD
 # Ignorer le dossier Twitter-Sentiment-Analysing
 Twitter-Sentiment-Analysing/
 
 # Fichiers spécifiques à IntelliJ IDEA
-
 *.class
 *.log
 
@@ -12,12 +11,12 @@ hs_err_pid*
 
 
 # IntelliJ IDEA
-#e7b241f346d879230433b321870596c6ec161d0a
+>>>>>>> e7b241f346d879230433b321870596c6ec161d0a
 .idea/
 *.iml
 out/
 
-
+HEAD
 # Logs et fichiers temporaires
 *.log
 *.tmp
@@ -28,7 +27,7 @@ target/
 
 # Exclure d'autres fichiers ou dossiers non nécessaires
 .bsp/
-=======
+
 # Logs
 logs/
 *.log
@@ -64,4 +63,4 @@ derby.log
 # OS-specific files
 .DS_Store
 Thumbs.db
-# e7b241f346d879230433b321870596c6ec161d0a
+e7b241f346d879230433b321870596c6ec161d0a
