@@ -1,0 +1,83 @@
+[
+  {
+    "Annee": 2020,
+    "Marque": "Toyota",
+    "Modele": "Corolla",
+    "Transmission": "Automatique",
+    "Couleur": "Blanc",
+    "Prix": 20000
+  },
+  {
+    "Annee": 2018,
+    "Marque": "Honda",
+    "Modele": "Civic",
+    "Transmission": "Manuel",
+    "Couleur": "Noir",
+    "Prix": 18000
+  },
+  {
+    "Annee": 2022,
+    "Marque": "Ford",
+    "Modele": "Focus",
+    "Transmission": "Automatique",
+    "Couleur": "Bleu",
+    "Prix": 25000
+  },
+  {
+    "Annee": 2015,
+    "Marque": "BMW",
+    "Modele": "Serie 3",
+    "Transmission": "Manuel",
+    "Couleur": "Gris",
+    "Prix": 30000
+  },
+  {
+    "Annee": 2021,
+    "Marque": "Audi",
+    "Modele": "A4",
+    "Transmission": "Automatique",
+    "Couleur": "Rouge",
+    "Prix": 35000
+  },
+  {
+    "Annee": 2019,
+    "Marque": "Tesla",
+    "Modele": "Model 3",
+    "Transmission": "Automatique",
+    "Couleur": "Blanc",
+    "Prix": 50000
+  },
+  {
+    "Annee": 2017,
+    "Marque": "Mercedes",
+    "Modele": "Classe C",
+    "Transmission": "Manuel",
+    "Couleur": "Noir",
+    "Prix": 40000
+  },
+  {
+    "Annee": 2023,
+    "Marque": "Volkswagen",
+    "Modele": "Golf",
+    "Transmission": "Automatique",
+    "Couleur": "Vert",
+    "Prix": 23000
+  },
+  {
+    "Annee": 2016,
+    "Marque": "Nissan",
+    "Modele": "Altima",
+    "Transmission": "Manuel",
+    "Couleur": "Jaune",
+    "Prix": 17000
+  },
+  {
+    "Annee": 2024,
+    "Marque": "Chevrolet",
+    "Modele": "Malibu",
+    "Transmission": "Automatique",
+    "Couleur": "Bleu",
+    "Prix": 27000
+  }
+
+]
